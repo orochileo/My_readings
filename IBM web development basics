@@ -1,0 +1,53 @@
+No matter the size, all computers have four basic functions: input, processing, output, and storage.
+Input
+Inputs are information received by a computer. A computer cannot perform a function until it receives input. 
+Web developers build interfaces for users to provide input through keyboards, computer mouses, or even touchscreens and microphones. 
+Computers can also receive input automatically through devices like sensors.  
+The computer must translate the data it receives from the input devices into binary code for the computer to either store or process. 
+Binary code, also known as machine code, is a system that represents all data as either 0’s or 1’s (or false/true or off/on). 
+It is the only language that a computer can understand.  
+
+Processing
+When a computer receives data, in the form of 0’s and 1’s, it must transform that data. The computer transforms the data into anything 
+from numbers, to letters, to simple commands. Processing is the series of actions that a computer takes when it receives data. The programs 
+that web developers write will tell the computer what to do with the data that it receives. The computer mainly performs logical operations 
+because the data is converted into 0’s and 1’s.  
+
+Output
+Output is the result of the computer transforming input data, through processing, into usable information. A computer’s output might be letters, 
+numbers, photos, videos, or audio. Users can receive this output in different ways including via device screens, speakers, and even external 
+devices such as printers. Similarly to input devices, output devices must do some translation. They decode machine code from the computer into a
+format that users can understand. 
+
+Storage
+Storage refers to how a device retains information. Web developers need to be aware of, and need to know how to use, short-term storage and 
+long-term storage.  
+Short-term storage, also called volatile memory, stores data while the device is running. Websites store data that web pages will use while the 
+user is interacting with it. The data is stored in short-term memory, called random access memory (RAM). For example, suppose you’re developing a 
+site that handles inventory for a shipping firm. When a customer enters an order, the web page will hold the data in short-term memory until the 
+customer clicks or taps a button to submit the order. In many cases, the web browser will handle storing data in short-term memory. 
+Long-term storage will retain information even after the device is powered down. Devices like solid-state drives (SDD) or hard disk drives (HDD) 
+are used for long-term storage. Websites create small files that store information called cookies. A cookie stores user-specific data such as the 
+last time that the user visited the site, how long before they need to log in again, and other data. The device’s long term storage stores cookies, 
+which persist between site sessions. A session is the time a user is on a website in one continuous block of time. 
+
+Hardware
+Hardware is the physical components your computer needs to operate. Examples of hardware include the RAM and central processing unit (CPU), which handles processing. 
+Some hardware also functions as input/output (I/O) devices. I/O devices are the physical components your computer needs to gather inputs and share outputs. The keyboard,
+microphone, and mouse are examples of I/O devices.
+
+Software
+The primary software that your computer needs is an operating system (OS). The operating system is like a manager. It enables you to communicate with the computer without 
+knowing machine code. It also manages all software and hardware, and acts as a coordinator between the hardware and all systems that are running. Some examples of operating 
+systems are Linux, Windows, Android, Apple macOS, and Apple iOS.  
+Other software applications, also called programs, are sets of instructions that the computer uses to perform tasks that are beyond the main functions of the operating system. 
+Examples of software applications include web browsers, word processors, and image editors.  
+
+Web Browser
+The web browser is like the automobile. It has a lot of power and uses complex software to make the web useful. However, without websites, it really can’t do much. The web 
+sites and web applications that developers write are like the driver—they tell the browser what to do to make it useful.
+Web applications are a hybrid between a software program and a web page. Web applications can run in a browser, but many software developers use a wrapper for web apps. A 
+wrapper is software into which a developer can add the code they developed for a website. You might have downloaded an app onto your phone that looks and behaves just like 
+the application's website, such as a to-do list app. The phone app has essentially the same code as the website, but it is delivered and operates on your phone through a wrapper. 
+
+

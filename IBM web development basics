@@ -50,4 +50,55 @@ Web applications are a hybrid between a software program and a web page. Web app
 wrapper is software into which a developer can add the code they developed for a website. You might have downloaded an app onto your phone that looks and behaves just like 
 the application's website, such as a to-do list app. The phone app has essentially the same code as the website, but it is delivered and operates on your phone through a wrapper. 
 
+Website
+A website is a collection of web pages that are all located on the same domain name.
+A web page displays information on the internet in the form of text(copy), images, videos, and other elements. In addition to web pages, a website also needs a domain name to
+locate it, a browser to view it, and a server to host it.
+Front-end developers write the code that renders a website and also enables a user to interact with a website. Some of those interactions trigger a process that directly 
+communicates and interacts with servers and the processes that run on them. For example, when you do something as simple as clicking the play button on a video, that begins a 
+request to pull the data that makes up the video you want to play from the server. The server then sends that data to your (the client’s) device to render it (a client-side 
+process). 
+Back-end developers write the code that processes data and performs tasks that send information to and receives information from the browser. For example, a user might use 
+natural language to search for all restaurants in a given area. They type, “show me all the Greek restaurants in my home city” into a form. This query along with some location 
+data is sent to the server, which uses artificial intelligence and natural language processing technology to produce a result (a server-side process). The result then is sent 
+back to the client-side to display to the user. 
 
+Front-end development
+Front-end development focuses on developing only the parts of a website that users can see and interact with. A front-end developer creates everything you see on a web page, 
+such as text, and buttons. Every interaction that a user has with the website is programmed by a front-end developer.
+Search engine optimization (SEO)
+Web developers increasingly need to understand how to optimize their websites for search engines so that they appear higher in the rankings and internet users find their sites. 
+Developers add metadata to the top of their web pages or websites that describes the content within them. Search engine optimization (SEO) is the process of ensuring that the 
+metadata included in the header of a page or site matches the content in the body, adding appropriate information so search engines can properly crawl the site. 
+
+Backend development
+Back-end developers focus mainly on servers, applications, and databases. Servers are the computers that send and receive data, applications process requests and responses from
+the front end, and databases store and organize all that data. Basically, back-end developers make sure that servers, applications, and databases communicate with each other and 
+operate smoothly and quickly. The back end also focuses on the data management and security of the website.
+In addition to ensuring servers, applications, and databases are operating as they should, back-end developers also write server-side scripts for dynamic content, develop APIs to 
+move data around, and ensure websites and systems are secure and meet security standards. 
+
+Dynamic web pages 
+Initially, web pages were static, indicating that a developer had to go into the code each time an update to the content or media is required. Now, web pages can display different 
+content based on several different factors. The content displayed on the screen may change based on location, time of day, or even what the user has previously interacted with. 
+Back-end developers write server-side scripts to tell the server what rules to follow when delivering dynamic content.  
+
+Application programming interface (API) 
+Have you ever logged into a website that let you use your credentials from another site, like your social media or email, to log in?  If so, you have experienced an API in action. 
+APIs enable front-end developers to interact with data and services from the server. They also enable two distinct applications to interact with one another and share data. This 
+ensures that when data that is passed from between the front-end and back-end or between applications, it can be done securely and predictably. APIs do this by specifying what 
+type of request the client can make, and what data the client can expect in return using a secure transmission.  
+
+Payments and personally identifiable information (PII)
+It is simple to make payments on a website or fill out a medical history form before an appointment, but many people are still cautious about submitting their credit card numbers 
+and personally identifiable information to a website. Back-end developers are responsible for database security and server-side encryption to ensure that their websites are compliant 
+with PII and payment card industry (PCI) security standards.  
+
+Network
+A modem connects you to the internet. It is a piece of hardware that receives signals from your internet service provider (ISP) and translates these signals into a form that your 
+computer understands. A router manages the information sent over the internet. It ensures the delivery of the right information to the intended device. A router takes the internet 
+connection from your modem and breaks it up to provide access to the different devices connected to the network.  
+When you type a URL in your browser, you are requesting information from another specific destination. Your computer will push your request to your internet service provider (ISP), 
+who will use a domain name server (DNS) to translate the URL into a numerical internet protocol (IP) address. The DNS service enables users to use friendly names in the web address 
+of the websites they’re trying to reach. Without DNS, instead of using a web address like https://www.ibm.com(opens in a new tab), users would have to remember and type in an IP 
+address like, https://23.194.240.52. DNS translates the user-friendly web address to the IP address so users don’t have to worry about the IP address. 
